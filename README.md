@@ -1,4 +1,4 @@
-                                                                                 BOMBERMAN GAME
+                                               BOMBERMAN GAME
 
 TO RUN THE GAME->
   python3 main.py
